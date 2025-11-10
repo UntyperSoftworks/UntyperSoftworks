@@ -1,1 +1,1 @@
-Amateur programmer; learning Lua/Luau, JavaScript.
+**readme wip**
