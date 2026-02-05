@@ -17,5 +17,14 @@ Right now, I'm currently developing a newer (and much more optimized) roblox scr
 
 <hr>
 
+### stuff that i do
+[![skills](https://skillicons.dev/icons?i=lua,robloxstudio,java,js,vscode,windows)](https://skillicons.dev)
+
+### socials
+[![ig](https://skillicons.dev/icons?i=instagram)](https://instagram.com/noahyang.luau)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/untyper)
+
+<hr>
+
 Here are some stuff that I've made (on Roblox):
 > todo: add videos/images of said stuff
